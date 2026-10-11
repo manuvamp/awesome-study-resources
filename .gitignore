@@ -1,7 +1,6 @@
 .DS_Store
 Thumbs.db
 *.log
-.vscode/
 .idea/
 lychee-report.md
 pricing-review.md
