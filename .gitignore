@@ -1,7 +1,10 @@
 .DS_Store
 Thumbs.db
 *.log
-.vscode/
 .idea/
 lychee-report.md
 pricing-review.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
