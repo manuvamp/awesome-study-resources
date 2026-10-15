@@ -2520,6 +2520,13 @@
     "subsection": null
   },
   {
+    "name": "ORANO",
+    "url": "https://oranoai.com",
+    "description": "Turns saved videos and articles into searchable summaries and plans (freemium).",
+    "section": "Notes & Knowledge Management",
+    "subsection": null
+  },
+  {
     "name": "Anki",
     "url": "https://apps.ankiweb.net",
     "description": "Free, open-source spaced-repetition flashcards with huge shared decks (free).",

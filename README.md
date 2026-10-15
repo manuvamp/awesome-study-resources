@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-582-blue)
+![Resources](https://img.shields.io/badge/resources-583-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -35,7 +35,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 110 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 360 |
-| <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 10 |
+| <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 14 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 11 |
@@ -945,6 +945,7 @@ Capture, link, and organize what you learn.
 - **[Notion](https://www.notion.com)** - All-in-one notes, databases, and docs, free tier for students (freemium).
 - **[Notion Student Planner Templates](https://www.notion.com/templates/category/free-student-planner-templates)** - Free, official templates for tracking classes, assignments, and deadlines (free).
 - **[Obsidian](https://obsidian.md)** - Local-first linked notes with a large plugin ecosystem (free).
+- **[ORANO](https://oranoai.com)** - Turns saved videos and articles into searchable summaries and plans (freemium).
 - **[RemNote](https://www.remnote.com)** - Notes with built-in spaced-repetition flashcards (freemium).
 - **[Roam Research](https://roamresearch.com)** - Links notes bidirectionally to build a networked knowledge base (paid).
 - **[Zettlr](https://www.zettlr.com/)** - Open-source Markdown editor built for long academic writing (free).
